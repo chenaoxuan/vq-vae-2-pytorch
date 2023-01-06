@@ -27,7 +27,7 @@ Implementation of Generating Diverse High-Fidelity Images with VQ-VAE in PyTorch
 
 **|---文件带有_old后缀的，表示Fork前的原始文件，未使用。**
 
-
+在5k张Laion数据上训练与CogView对齐的模型，使用两张TITAN XP（12G），单卡batch size最多开到16（显存占用10G+），训练一个epoch约4.1min。
 
 
 
