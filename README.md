@@ -29,8 +29,9 @@ Implementation of Generating Diverse High-Fidelity Images with VQ-VAE in PyTorch
 
 
 
-**Fork前：**
 
+
+**Fork前：**
 ## Update
 
 * 2020-06-01
