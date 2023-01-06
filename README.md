@@ -1,7 +1,7 @@
-# vq-vae-2-pytorch
+# vq-vae-pytorch
 Implementation of Generating Diverse High-Fidelity Images with VQ-VAE-2 in PyTorch
 
-ChenAoxuan：
+**ChenAoxuan：**
 
 |---sample 训练过程中测试模型的生成结果。
 
@@ -25,11 +25,12 @@ ChenAoxuan：
 
 |---prepare_data.py 临时的文件，无意义。
 
-|---文件带有_old后缀的，表示Fork前的原始文件，未使用。
+**|---文件带有_old后缀的，表示Fork前的原始文件，未使用。**
 
 
 
 **Fork前：**
+
 ## Update
 
 * 2020-06-01
