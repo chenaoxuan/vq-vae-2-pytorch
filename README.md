@@ -1,5 +1,5 @@
 # vq-vae-pytorch
-Implementation of Generating Diverse High-Fidelity Images with VQ-VAE-2 in PyTorch
+Implementation of Generating Diverse High-Fidelity Images with VQ-VAE in PyTorch
 
 **ChenAoxuan：**
 
